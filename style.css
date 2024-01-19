@@ -1,0 +1,32 @@
+.child-box {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    left: 40px;
+    bottom: 75px;
+    border: 2px solid orangered;
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    background-color: orange;
+    position: relative;
+    border: 2px solid aqua;
+}
+
+h1 {
+    text-align: left;
+    font-family: Tahoma;
+    color: brown;    
+}
+
+p {
+    text-align: left;
+    font-style: italic;
+    font-family: Tahoma;
+    color: blueviolet;   
+}
